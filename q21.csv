@@ -1,0 +1,11 @@
+Employee ID,Full Name,Department,Salary
+101,John Doe,IT,55000
+102,Jane Smith,HR,62000
+103,Michael Johnson,Finance,58000
+104,Emily Davis,,60000
+105,Chris Brown,IT,NaN
+106,Sarah Wilson,Marketing,53000
+107,David Lee,Finance,57000
+108,Anna White,HR,59000
+109,James Taylor,,61000
+110,Robert Green,IT,56000
